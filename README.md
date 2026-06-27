@@ -8,10 +8,6 @@
 │  Homelab builder · Reverse engineering learner      │
 └─────────────────────────────────────────────────────┘
 ```
-<a href="https://tryhackme.com/p/Luth3r">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Luth3r.png" alt="TryHackMe profile Luth3r" height="60" />
-</a>
-
 [![RootMe](https://img.shields.io/badge/RootMe-Luth3r-00b894?style=flat-square&logo=linux&logoColor=white)](https://www.root-me.org/Luth3r)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Luth3r-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Luth3r)
 [![Osintopia](https://img.shields.io/badge/Osintopia-Luth3r-0984e3?style=flat-square)](https://challenges.osintopia.fr/profil-public/luth3r)
